@@ -1,0 +1,86 @@
+body {  
+    font-family: Arial; 
+    margin: auto;  
+    background-color: lightskyblue;  
+    }  
+    header { 
+    width: 90%; 
+    height: 150px; 
+    margin: auto; 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchrEHH4SnImjXcaEDgARlgNE4FWHCKzNYWTXOsnb1mQ&s=10"); 
+    border: 3px solid blue; 
+    border-radius: 15px; 
+    }
+    h1 { 
+    color: white; 
+    text-align: center; 
+    padding-top: 50px; 
+    }
+    nav { 
+    text-align: center; 
+    padding: 10px; 
+    }
+    a { 
+    color: white; 
+    background-color: maroon; 
+    padding: 5px 15px; 
+    text-decoration: none; 
+    font-weight: bold; 
+    border-radius: 7px; 
+    }
+    .current { 
+    color: mediumpurple; 
+    }
+    a:hover { 
+    color: mediumpurple; 
+    }
+    #container { 
+    margin: auto; 
+    width: 90%; 
+    background-color: lavenderblush; 
+    border: 1px solid white; 
+    border-radius: 7px; 
+    }
+    section { 
+    padding: 0px 20px; 
+    } 
+    section p { 
+    text-align: justify; 
+    }
+    footer { 
+    margin: auto; 
+    margin-bottom: -17px; 
+    color: white; 
+    background-color: darkred; 
+    text-align: center; 
+    width: 90%; 
+    border-radius: 7px 7px 0 0; 
+    } 
+    footer p { 
+    padding: 5px; 
+    }
+    section { 
+    padding: 0px 20px; 
+    } 
+    section p { 
+    text-align: justify; 
+    }
+    footer { 
+    margin: auto; 
+    margin-bottom: -17px; 
+    color: white; 
+    background-color: darkred; 
+    text-align: center; 
+    width: 90%; 
+    border-radius: 7px 7px 0 0; 
+    } 
+    footer p { 
+    padding: 5px; 
+    }
+    section img { 
+    width: 47%; 
+    margin-right: 20px; 
+    margin-bottom: 10px; 
+    float: left; 
+    }
+    
